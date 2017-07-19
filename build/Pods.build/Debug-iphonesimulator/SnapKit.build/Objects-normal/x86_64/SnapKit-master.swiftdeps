@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "2c865259aa592f7d4307bfb2f0aab715"
+build_time: [553772051, 653751000]
+inputs:
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/Constraint.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ConstraintAttributes.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ConstraintDescription.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ConstraintItem.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ConstraintMaker.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ConstraintRelation.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/Debugging.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/EdgeInsets.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/LayoutConstraint.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/SnapKit.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/View+SnapKit.swift": !dirty [553772021, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/Pods/SnapKit/Source/ViewController+SnapKit.swift": !dirty [553772021, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "821eb16736affbdb2ddf169d10c68587"
+build_time: [553772223, 402148000]
+inputs:
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/SwiftIM/ViewController.swift": [553766075, 0]
+  "/Users/fengxueshi/\u4E2A\u4EBA\u96C6\u5408/IOS_WorkSpace/SwiftIM/SwiftIM/AppDelegate.swift": [553766075, 0]
